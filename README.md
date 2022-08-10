@@ -1,2 +1,2 @@
 # BinanceDash
-Dashboard to help with making trades on the cryptocurrency exchange Binance.
+RShiny dashboard to help with making trades on the cryptocurrency exchange Binance using the Binance API.
